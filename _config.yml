@@ -1,0 +1,15 @@
+#Site wide configuration
+title: Portfolio junior QA/QC engenier
+icon: favicon.ico
+locale: en_US
+
+#Platform usernames
+name: Maria Bezobiuk
+author: Maria Bezobiuk
+avatar: photo_bio.jpg
+email: bezobiuk.mari@gmail.com
+description: QA engenier, QC engenier, QA/QC engenier, Software Testing, SFT, manual software tester
+github_username: Mari-Bezobiuk
+show_excerpts: true
+theme: jekyll-theme-leap-day
+
