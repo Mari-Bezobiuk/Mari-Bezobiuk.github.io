@@ -38,9 +38,9 @@ There are some variants to write down user stories:
 - In order to \<receive benefit\> as a \<role\>, I can \<goal\/desire\>
 - As \<who\> \<when\> \<where\>, I want \<what\> because \<why\> 
  
-[file with user stories](docfiles/requirements-to-functionality.pdf)
+[File with user stories to the functionality](docfiles/requirements-to-functionality.pdf)
 
-[file with user stories to UI](docfiles/requirements-UI.pdf)
+[File with user stories to UI](docfiles/requirements-UI.pdf)
 
 ------
 
@@ -140,7 +140,7 @@ its   predecessor?" and "Is everything in the predecessor reflected
 completely and   correctly in this diagram?"
 
 
-<img src="docfiles/state-transition-diagram-registration.jpg" width="700" alt="State Transition Diagram"/>
+<img src="docfiles/state-transition-diagram.jpg" width="700" alt="State Transition Diagram"/>
 <!--- State Transition Diagram for registration on newtea.ua.--->
 
 
@@ -157,9 +157,8 @@ They provide a clear method to verify testing of all pertinent combinations
  to ensure that all possible conditions, relationships, and constraints 
  are handled by the software under test.
 
-<p align="right">
-<img src="docfiles/decision-table-registration.jpg" width="700" alt="Decision table"/>
-Decision table for registration on newtea.ua.
+<img src="docfiles/decision-table.jpg" width="700" alt="Decision table"/>
+<p align="center">Decision table for registration on newtea.ua.
 </p>
 
 ------
@@ -170,7 +169,7 @@ Decision table for registration on newtea.ua.
 It´s a list of test activities needed to be done with checkbox done or not. 
 It can contains a columns ¨Pass/Fail¨ and ¨Coments¨ for tester´s comfort :\) 
 
-File with [checklist](docfiles/checklist-main-newtea.pdf) for main page https://newtea.ua testing
+File with [checklist](docfiles/checklist-main-newtea.pdf) for main page testing.
 
 
 ------
