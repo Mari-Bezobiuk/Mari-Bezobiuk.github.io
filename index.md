@@ -35,7 +35,7 @@ include any functional or non-functional user´s need, the reason behind it,
  
 There are some variants to write down user stories:  
 - As a \<role\> I can \<capability\>, so that \<receive benefit\>
-- In order to \<receive benefit\> as a \<role\>, I can \<goal\/desire\>
+- In order to \<receive benefit\> as a \<role\>, I can \<goal/desire\>
 - As \<who\> \<when\> \<where\>, I want \<what\> because \<why\> 
  
 [File with user stories to the functionality](docfiles/requirements-to-functionality.pdf)
