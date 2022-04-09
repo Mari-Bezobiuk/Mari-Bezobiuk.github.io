@@ -64,7 +64,7 @@ Use cases help us
 
 <img src="docfiles/use-case-diagram-newtea.png" width="700" alt="Use case diagram"/>
 
-<h3 align="center"> Use case diagram </h3>Use case diagram
+<p align="center"> Use case diagram </p>
 
 
 ------
@@ -86,22 +86,25 @@ Use case flows describe sequences of interactions, and may be worded in
 terms of a formal model. A use case is intended to provide sufficient 
 detail for it to be understood on its own.  
 
+Template for use case:
+
 - Title: "goal the use case is trying to satisfy"
 - Main Success Scenario: numbered list of steps  
-   -Step: "a simple statement of the interaction between the actor and a system"
+  - Step: "a simple statement of the interaction between the actor and a system"
 - Extensions: separately numbered lists, one per Extension
-   -Extension: "a condition that results in different interactions from .. 
+  - Extension: "a condition that results in different interactions from .. 
 the main success scenario". An extension from main step 3 is numbered 3a, etc.
 
 Or
-'''
+
 - Title (goal)
 - Primary Actor
 - Scope
 - Level
 - (Story): the body of the use case is simply a paragraph or two of text, 
 informally describing what happens.
-'''
+
+We can highlight such types of use cases:  
 
 - System use cases specify the requirements of a system to be developed.  
 - Business use cases focus on a business organisation instead of a software
@@ -126,7 +129,7 @@ during the life of an system.
 
 Only valid state transitions may be utilized. 
  
-It is used in the object-oriented modeling and developing as use case diagram.
+It is used in the object-oriented modeling and developing as well as use case diagram.
 
 For the tester there are three main questions to test these diagrams:
 
@@ -163,9 +166,9 @@ Decision table for registration on newtea.ua.
 
 ## Checklist
 
-**Checklist** is a simpliest form of test documentation, I think. :smirk: 
+**Checklist** is a simpliest form of test documentation, I think. 
 It´s a list of test activities needed to be done with checkbox done or not. 
-It can contains a columns ¨Pass/Fail¨ and ¨Coments¨ for tester´s comfort :smirk: 
+It can contains a columns ¨Pass/Fail¨ and ¨Coments¨ for tester´s comfort :\) 
 
 File with [checklist](docfiles/checklist-main-newtea.pdf) for main page https://newtea.ua testing
 
@@ -173,7 +176,7 @@ File with [checklist](docfiles/checklist-main-newtea.pdf) for main page https://
 ------
 
 
-:smiley: fgntynm
+ fgntynm
 
 
 
