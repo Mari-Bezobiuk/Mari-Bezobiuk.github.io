@@ -261,8 +261,9 @@ File with [Fiddler](docfiles/fiddler.pdf) API testing.
 
 ------
 
-## Automated testing with Selenium IDE (Integrated Development Environment)
+## Automated testing 
 
+Automated testing with Selenium IDE (Integrated Development Environment)
 
 File with screenshots of testing with [Selenium IDE](docfiles/selenium-ide.pdf)
 
