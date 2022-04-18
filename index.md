@@ -2,16 +2,22 @@
 # Welcome to my portfolio!
 
 I'm Maria Bezobiuk and I'm a junior QA/QC engineer, at the time - 
-manual software tester. 
+manual software tester.
 
 <img src="images/photo-bio.jpg" height="200"/>
 
-I'm glad you are here. :smile: It means, you were interested in my CV or social page
+I'm glad you are here. It means, you were interested in my CV or social page
  and were curious, what is the level of my skills.
 
 These are examples of my work product.
 
-The site was tested [newtea.ua](https://newtea.ua/)
+Mainly the site was tested - [newtea.ua](https://newtea.ua/)
+
+At the time some work products aren´t up to site version.
+
+
+------
+## SDLC and STLC
 
 Every test activity starts from analysis of project´s idea which realisation 
 is started with definition of requirements.
@@ -20,10 +26,67 @@ is started with definition of requirements.
 
 ## Requirements
  
->The requirements should be documented, actionable, measurable, testable,
+> The requirements should be documented, actionable, measurable, testable, 
 > traceable, related to identified business needs or opportunities, 
-> and defined to a level of detail sufficient for system design.
+> and defined to a level of detail sufficient for system design. (Wikipedia)
 
+Requirement is something wanted or needed. And it´s necessary to know exactly
+what do you want or need to recieve it and nothing else.
+
+>**Requirement** - A provision that contains criteria to be fulfilled. (ISTQB)
+
+Good requirements should have the following characteristics:
+
+- *Unambiguous* There should be only one way to interpret the requirement.
+- *Testable (verifiable)* Testers should be able to verify whether the 
+requirement is implemented correctly. The test should either pass or fail.
+- *Clear (concise, terse, simple, precise)* Requirements should not contain
+ unnecessary verbiage or information. They should be stated clearly and simply
+- *Correct* If a requirement contains facts, these facts should be true.
+- *Understandable* Requirements should be grammatically correct and written 
+in a consistent style. Standard conventions should be used. The word “shall” 
+should be used instead of “will,” “must,” or “may.”
+- *Feasible (realistic, possible)* The requirement should be doable within 
+existing constraints such as time, money, and available resources.
+- *Independent* To understand the requirement, there should not be a need 
+to know any other requirement.
+- *Atomic* The requirement should contain a single traceable element.
+- *Necessary* A requirement is unnecessary if 1.none of the stakeholders 
+needs the requirement or 2.removing the requirement will not affect the system.
+- *Implementation-free (abstract)* Requirements should not contain 
+unnecessary design and implementation information. 
+
+Besides these criteria for individual requirements, three criteria apply 
+to the set of requirements. The set should be:
+
+- *Consistent* There should not be any conflicts between the requirements. 
+Conflicts may be direct or indirect. Direct conflicts occur when, in the 
+same situation, different behavior is expected. Indirect conflict occurs 
+when requirements do not describe the same functionality, but it is not 
+possible to fulfill both requirements at the same time.
+- *Nonredundant* Each requirement should be expressed only once and 
+should not overlap with another requirement
+- *Complete* A requirement should be specified for all conditions that can occur.
+
+Depending on the format, source, and common characteristics, the requirements
+ can be split into different requirement types. Here are some requirement
+ types that are often used in projects:
+
+- *Stakeholder need*: a requirement from a stakeholder
+- *Feature*: a service provided by the system, usually formulated by a 
+business analyst; a purpose of a feature is to fulfill a stakeholder need
+- *Use case*: a description of system behavior in terms of sequences of actions
+- *Supplementary requirement*: another requirement (usually nonfunctional) 
+that cannot be captured in use cases
+- *Test case*: a specification of test inputs, execution conditions, and expected results
+- *Scenario*: a specific sequence of actions; a specific path through a use case
+
+One of the best practices of requirements management is to have at least 
+two different levels of requirement abstraction. For example, the Vision 
+contains high-level requirements (features), and the lower levels specifications
+express the requirements at a detailed level. Senior stakeholders 
+(such as vice presidents) do not have time to read 200 pages of detailed 
+requirements but should be expected to read a 12-page Vision document.
 
  ------
 
@@ -35,7 +98,7 @@ include any functional or non-functional user´s need, the reason behind it,
  
 There are some variants to write down user stories:  
 - As a \<role\> I can \<capability\>, so that \<receive benefit\>
-- In order to \<receive benefit\> as a \<role\>, I can \<goal\/desire\>
+- In order to \<receive benefit\> as a \<role\>, I can \<goal/desire\>
 - As \<who\> \<when\> \<where\>, I want \<what\> because \<why\> 
  
 [File with user stories to the functionality](docfiles/requirements-to-functionality.pdf)
@@ -52,16 +115,6 @@ behavior is expected in software underdeveloped. We can say, it is a primary
 form of system or software requirements and helps us design a system from 
 the end user's perspective. 
 
-> A use case is a scenario that describes the use of a system by an actor 
-to accomplish a specific goal.
-
-Use cases help us
-
-- capture the system's functional requirements from the users' perspective
-- actively involve users in the requirements-gathering process
-- provide the basis for identifying major classes and their relationships
-- serve as the foundation for developing system test cases
-
 <img src="docfiles/use-case-diagram-newtea.png" width="700" alt="Use case diagram"/>
 
 <p align="center"> Use case diagram </p>
@@ -75,7 +128,18 @@ A **use case** is a list of actions or event steps typically defining the
 interactions between a role (known in the Unified Modeling Language (UML)
  as an actor) and a system to achieve a goal. 
 
-A usage scenario for a piece of software; often used in the plural to 
+> A use case is a scenario that describes the use of a system by an actor 
+to accomplish a specific goal.
+
+Use cases help us
+
+- capture the system's functional requirements from the users' perspective
+- actively involve users in the requirements-gathering process
+- provide the basis for identifying major classes and their relationships
+- serve as the foundation for developing system test cases
+
+
+It is a usage scenario for a piece of software; often used in the plural to 
 suggest situations where a piece of software may be useful.
 
 Use cases organize requirements to form a narrative of how users relate 
@@ -115,6 +179,8 @@ intents of the actors and how the system addresses these, without defining
 any sequence or describing a scenario. This practice was developed with 
 the aim of supporting user-centric design and avoiding to induce bias about 
 the user-interface in the early stage of the system specifications.  
+
+
 
 ------
 
@@ -174,15 +240,81 @@ File with [checklist](docfiles/checklist-main-newtea.pdf) for main page testing.
 
 ------
 
-
- fgntynm
-
-
+## Test Cases
 
 
 
 ------
 
 
-## Testcases
+## Defect Reports
+
+
+------
+
+## API Testing
+
+
+File with [Postman](docfiles/postman.pdf) API testing.
+
+File with [Fiddler](docfiles/fiddler.pdf) API testing.
+
+------
+
+## Automated testing with Selenium IDE (Integrated Development Environment)
+
+
+File with screenshots of testing with [Selenium IDE](docfiles/selenium-ide.pdf)
+
+
+------
+
+## SQL
+
+[SQL](docfiles/sql-lite.pdf) using
+
+------
+
+## About me
+
+I have a technical and analytical mindset. Since the school time, I was 
+very attentive to details, was trying to do perfectly my work so sometimes 
+I was slow in studying. My strong side is the need to understand the 
+study material so it becomes a part of me. This means that I can explain 
+and use it anytime I needed. I have three children and sometimes help them 
+with homework. Sometimes because I´ve explained to them, missing the parts
+on the basis causes the misunderstanding of the next level material. 
+
+Also, I am a self-organized person. I´ve studied HTML and Phyton´s basis in 
+Sololearn app a few years ago. Also, I studied SQL basis on it.
+And I´ve created this site on my own after I got first acquainted 
+with Git and ultimate markdown. As you can see I´m a self-study person, which
+is interested in IT. 
+
+I took part in EPAM’s external course Software Functional Testing Winter 
+Program 2022. I studied ISTQB foundation Syllabus and Software Testing - 
+Base Course (Svyatoslav Kulikov).
+
+Quality assurance interested me because in particular forms of quality 
+control and testing it is necessary at all stages of 
+software development. It usually starts from testing requirements and work 
+products, helps in the analysis and design stage, closely works with developers to create the 
+best quality product and is needed in a partly automated form on the 
+maintenance stage for regression testing. 
+
+I understand that now my knowledge is not on the level of QA or even QC 
+engineer, it´s tester level. But I know that I have a good and strong basis
+on which I can add practical and more specific knowledge and grow up!
+
+
+------
+
+## CV
+
+[CV](cv.md)
+
+[CV.pdf](docfiles/CV.pdf)
+
+------
+ 
 
