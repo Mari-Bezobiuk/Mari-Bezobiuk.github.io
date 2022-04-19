@@ -1,12 +1,3 @@
-----
-layout: page
-title: CV Junior QA/QC engenier, manual software tester
-excerpt: ¨Why you should hire me¨
-tags: [cv junior QA]
-comments: true
-category: presentation
----
-
 # Maria Bezobiuk
 
 ![](images/photo_bio.jpg)
@@ -36,34 +27,16 @@ I am sure that I will be a useful addition to your IT company.
 
 ### Professional Skils
 
-<table>
-<tr>
-<td>
-__Development Tools__
-* TestRail
-* Fiddler
-* Postman
-* Selenium IDE
-* Jira
-* Trello
-* Git
-* Swagger
+ __Development Tools__ | __Technologies__ | __Metodologies__ 
+* TestRail | * HTML / CSS (basics) | * Agile 
+* Fiddler | * Technical Documentation/ SRS  | * Kanban 
+* Postman | * API REST | * TDD 
+* Selenium IDE |   | * Waterfall 
+* Jira |  __RDBMS__ | 
+* Trello | * MySQL  | 
+* Git | * SQLite | 
+* Swagger |  | 
 
-__Technologies__
-* HTML / CSS (basics)
-* Technical Documentation/ SRS
-* API REST
-
-
-__RDBMS__
-* MySQL
-* SQLite
-
-__Metodologies__
-* Agile
-* Kanban
-* TDD
-* Waterfall
 
 ### Languages
 * Ukrainian - native
@@ -86,6 +59,3 @@ Syllabus ISTQB
 Software Testing - Base Course (Svyatoslav Kulikov)
 Self-education on the base of free online information.
 
-</td>
-</tr>
-</table>
