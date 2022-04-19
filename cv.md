@@ -45,17 +45,17 @@ I am sure that I will be a useful addition to your IT company.
 
 ### Education
 
-**National Aviation University**
-Power Generation and Distribution Specialist
-2004-2005
-Bachelor of electrical engineering
-2000-2004
+**National Aviation University**  
+* Power Generation and Distribution Specialist  
+2004-2005  
+* Bachelor of electrical engineering  
+2000-2004  
 
 
 ### Addition Education
 
-EPAM External course Software Functional Testing Winter Program 2022
-Syllabus ISTQB
-Software Testing - Base Course (Svyatoslav Kulikov)
-Self-education on the base of free online information.
+* EPAM External course Software Functional Testing Winter Program 2022
+* Syllabus ISTQB
+* Software Testing - Base Course (Svyatoslav Kulikov)
+* Self-education on the base of free online information.
 
