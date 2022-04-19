@@ -1,8 +1,8 @@
 # Maria Bezobiuk
 
-![](images/photo-bio.jpg)
-
-## Junior QA/QC engineer, manual software tester
+<p align=¨center¨><img src="images/photo-bio.jpg" height="200"/>
+</p>
+## Junior QA/QC Engineer, Manual Software Tester
 
 ### Summary
 

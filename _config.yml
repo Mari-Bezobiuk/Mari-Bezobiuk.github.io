@@ -1,13 +1,14 @@
 #Site wide configuration
-title: Portfolio junior QA/QC engineer
+title: Junior QA/QC engineer
 icon: favicon.ico
 locale: en_US
 
 #Platform usernames
 name: Maria Bezobiuk
 author: Maria Bezobiuk
-avatar: photo_bio.jpg
+avatar: images\photo-bio.jpg
 email: bezobiuk.mari@gmail.com
+linkedin: mari-bezobiuk
 description: QA engineer, QC engineer, QA/QC engineer, manual software tester
 github_username: Mari-Bezobiuk
 show_excerpts: true
