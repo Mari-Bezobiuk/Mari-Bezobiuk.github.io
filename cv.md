@@ -1,9 +1,8 @@
----
+----
 layout: page
-title: CV
+title: CV Junior QA/QC engenier, manual software tester
 excerpt: ¨Why you should hire me¨
-permalink: /cv.html
-tags: [cv]
+tags: [cv junior QA]
 comments: true
 category: presentation
 ---
