@@ -1,16 +1,8 @@
 # Maria Bezobiuk
 
-![](images/photo_bio.jpg)
+![](images/photo-bio.jpg)
 
-## Junior QA/QC engenier, manual software tester
-
-### Contact me
-
-* Tel: +38(097)3243721
-* E-mail: bezobiuk.mari@gmail.com
-* LinkedIn: www.linkedin.com/in/mari-bezobiuk
-* GitHub Pages: mari-bezobiuk.github.io
-
+## Junior QA/QC engineer, manual software tester
 
 ### Summary
 
@@ -37,7 +29,6 @@ I am sure that I will be a useful addition to your IT company.
 * Git | * SQLite | 
 * Swagger |  | 
 
-
 ### Languages
 * Ukrainian - native
 * Russian - native
@@ -58,4 +49,11 @@ I am sure that I will be a useful addition to your IT company.
 * Syllabus ISTQB
 * Software Testing - Base Course (Svyatoslav Kulikov)
 * Self-education on the base of free online information.
+
+### Contact me
+
+* Tel: +38(097)3243721
+* E-mail: bezobiuk.mari@gmail.com
+* LinkedIn: www.linkedin.com/in/mari-bezobiuk
+* GitHub Pages: mari-bezobiuk.github.io
 
