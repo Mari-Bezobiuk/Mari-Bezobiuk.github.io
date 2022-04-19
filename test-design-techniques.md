@@ -1,4 +1,3 @@
----
 # Test Design Techniques
 
 In this post, you will learn about five commonly-used test design techniques
@@ -7,9 +6,7 @@ testing activities.
 
 ## What is Test Design?
 
-ISTQB:
-
-> The activity that derives and specifies test cases from test conditions.
+> **Test design** is the activity that derives and specifies test cases from test conditions. (ISTQB)
 
 ## When and Why do We Need Test Design?
 
@@ -37,10 +34,9 @@ There are a dozen of test design techniques you can use, but let’s focus
 
 ### Equivalent Class Partitioning
 
-ISTQB: **equivalence partitioning** or **partition testing**
-
-> A black-box test technique in which test cases are designed to exercise
+> **Equivalent class partitioning** or **equivalence partitioning** or **partition testing** A black-box test technique in which test cases are designed to exercise
  equivalence partitions by using one representative member of each partition.
+ (ISTQB)
 
 The equivalent class partitioning implies splitting test data into classes, 
 where all elements are similar in some way. This technique makes sense 
@@ -60,14 +56,10 @@ more closely.
 
 ### Boundary Value Analysis
 
-ISTQB:
+> **Boundary value analysis** is a black-box test technique in which test cases are designed based on 
+boundary values. (ISTQB) 
 
-> A black-box test technique in which test cases are designed based on 
-boundary values.
-
-Where boundary value: 
-
-> A minimum or maximum value of an ordered equivalence partition.
+> **Boundary value** is a minimum or maximum value of an ordered equivalence partition. (ISTQB)
 
 The boundary value analysis is similar to the previous technique. Some 
 may even say it is based on the equivalent class partitioning. So what 
@@ -80,10 +72,8 @@ the errors are likely to pop up at the unit junctions.
 
 ### State Transition
 
-ISTQB:
-
-> A black-box test technique in which test cases are designed to exercise
- elements of a state transition model.
+> **State transition** is a black-box test technique in which test cases are designed to exercise
+ elements of a state transition model. (ISTQB)
 
 The state transition visualizes the states of a software system at 
 different time frames and stages of usage. Visual information is simpler 
@@ -95,10 +85,8 @@ a sequence of events with a finite number of input options.
 
 ### Pairwise Testing
 
-ISTQB:
-
-> A black-box test technique in which test cases are designed to exercise
-pairs of parameter-value pairs.
+> **Pairwise testing** is a black-box test technique in which test cases are designed to exercise
+pairs of parameter-value pairs. (ISTQB)
 
 The pairwise testing is considered the most difficult and confusing of 
 the five test design techniques. And there is a good reason for this. 
@@ -113,10 +101,8 @@ calculations.
 
 ### Error Guessing
 
-ISTQB:
-
-> A test technique in which tests are derived on the basis of the tester's 
-knowledge of past failures, or general knowledge of failure modes.
+> **Error guessing** is a test technique in which tests are derived on the basis of the tester's 
+knowledge of past failures, or general knowledge of failure modes. (ISTQB)
 
 Error guessing is the most experimental practice of all, usually applied 
 along with another test design technique. In error guessing, a QA 

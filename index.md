@@ -235,11 +235,10 @@ File with [checklist](docfiles/checklist-main-newtea.pdf) for main page testing.
 
 ## Test Cases
 
-**Test Cases** are the main artifacts for testing the software itself.
+Test cases are the main artifacts for testing the software itself.
 
-ISTQB:
-> A set of preconditions, inputs, actions (where applicable), expected 
-> results and postconditions, developed based on test conditions.
+> **Test case** is a set of preconditions, inputs, actions (where applicable), expected 
+> results and postconditions, developed based on test conditions. (ISTQB)
 
 
 
@@ -250,21 +249,66 @@ See more about 5 commonly-used [test design techniques](test-design-techniques.m
 
 ## Defect Reports
 
-**Defect or bug report** is the basis artifact for improving the software.
+Defect or bug report is the basis artifact for improving the software.
 
-ISTQB:
-> Documentation of the occurrence, nature, and status of a defect.
+> **Defect or bug report** is a documentation of the occurrence, nature, and status of a defect. (ISTQB)
 
 
 ------
 
 ## API Testing
 
+> **Application programming interface (API)** is a type of interface in 
+which the components or systems involved exchange information in a 
+defined formal structure. (ISTQB)
 
+Web APIs typically use HTTP for request messages and provide a definition 
+of the structure of response messages. These response messages usually 
+take the form of an XML or JSON file. Both XML and JSON are preferred 
+formats because they present data in a way that’s easy for other apps 
+to manipulate.
+
+REST and SOAP are 2 different approaches to online data transmission. 
+Specifically, both define how to build application programming interfaces 
+(APIs), which allow data to be communicated between web applications.
+The main difference is that SOAP is a protocol while REST is not.
+
+**Simple object access protocol (SOAP)** is an official protocol 
+maintained by the World Wide Web Consortium (W3C). 
+
+APIs designed with SOAP use XML for their 
+message format and receive requests through HTTP or SMTP. SOAP makes it 
+easier for apps running in different environments or written in different 
+languages to share information.
+
+**Representational state transfer (REST)** is a set of architectural 
+principles. 
+
+When a request for data is sent to a REST API, it’s usually done through 
+hypertext transfer protocol (commonly referred to as HTTP). Once a request 
+is received, APIs designed for REST (called RESTful APIs or RESTful web 
+services) can return messages in a variety of formats: HTML, XML, plain 
+text, and JSON. JSON (JavaScript object notation) is favored as a message 
+format because it can be read by any programming language (despite the 
+name), is human- and machine-readable, and is lightweight. In this way, 
+RESTful APIs are more flexible and can be easier to set up.
+
+REST APIs are lightweight, making them ideal for newer contexts like the 
+Internet of Things (IoT), mobile application development, and serverless 
+computing. SOAP web services offer built-in security and transaction 
+compliance that align with many enterprise needs, but that also makes 
+them heavier. Additionally, many public APIs, like the Google Maps API, 
+follow the REST guidelines.
 
 File with [Postman](docfiles/postman.pdf) API REST testing.
 
 File with [Fiddler](docfiles/fiddler.pdf) API REST testing.
+
+Swagger.io is a simplify API development for users, teams, and enterprises 
+with the Swagger open source and professional toolset. Find out how 
+Swagger can help you design and document your APIs at scale.
+
+
 
 ------
 
@@ -274,10 +318,22 @@ Automated testing with Selenium IDE (Integrated Development Environment)
 
 File with screenshots of testing with [Selenium IDE](docfiles/selenium-ide.pdf)
 
-
 ------
 
 ## SQL
+
+> **Structured Query Language (SQL)** is a domain-specific language used 
+in programming and designed for managing data held in a relational 
+database management system (RDBMS), or for stream processing in a 
+relational data stream management system (RDSMS). (Wikipedia)
+
+A **relational DBMS** is an implementation of data stores according to the 
+design rules of the relational model. 
+
+The relational model designs data structures as relations (tables) with 
+attributes (columns) and the relationship between those relations. The 
+information about one entity of the real world is stored within one row 
+of a table. 
 
 [SQL](docfiles/sql-lite.pdf) 
 
