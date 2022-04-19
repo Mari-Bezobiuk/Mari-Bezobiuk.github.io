@@ -4,23 +4,16 @@
 I'm Maria Bezobiuk and I'm a junior QA/QC engineer, at the time - 
 manual software tester.
 
-<img src="images/photo-bio.jpg" height="200"/>
+<img src="images/photo-bio.jpg" height="200" align="center"/>
 
-I'm glad you are here. It means, you were interested in my CV or social page
- and were curious, what is the level of my skills.
+I'm glad you are here. It means, you were interested in my [CV](cv.md) 
+or social page and were curious, what is the level of my skills.
 
-These are examples of my work product.
+These are examples of my work products.
 
 Mainly the site was tested - [newtea.ua](https://newtea.ua/)
 
 At the time some work products aren´t up to site version.
-
-
-------
-## SDLC and STLC
-
-Every test activity starts from analysis of project´s idea which realisation 
-is started with definition of requirements.
 
 -------
 
@@ -242,12 +235,25 @@ File with [checklist](docfiles/checklist-main-newtea.pdf) for main page testing.
 
 ## Test Cases
 
+**Test Cases** are the main artifacts for testing the software itself.
 
+ISTQB:
+> A set of preconditions, inputs, actions (where applicable), expected 
+> results and postconditions, developed based on test conditions.
+
+
+
+See more about 5 commonly-used [test design techniques](test-design-techniques.md) 
 
 ------
 
 
 ## Defect Reports
+
+**Defect or bug report** is the basis artifact for improving the software.
+
+ISTQB:
+> Documentation of the occurrence, nature, and status of a defect.
 
 
 ------
@@ -255,9 +261,10 @@ File with [checklist](docfiles/checklist-main-newtea.pdf) for main page testing.
 ## API Testing
 
 
-File with [Postman](docfiles/postman.pdf) API testing.
 
-File with [Fiddler](docfiles/fiddler.pdf) API testing.
+File with [Postman](docfiles/postman.pdf) API REST testing.
+
+File with [Fiddler](docfiles/fiddler.pdf) API REST testing.
 
 ------
 
@@ -272,7 +279,7 @@ File with screenshots of testing with [Selenium IDE](docfiles/selenium-ide.pdf)
 
 ## SQL
 
-[SQL](docfiles/sql-lite.pdf) using
+[SQL](docfiles/sql-lite.pdf) 
 
 ------
 
@@ -310,11 +317,7 @@ on which I can add practical and more specific knowledge and grow up!
 
 ------
 
-## CV
-
-[CV](cv.md)
-
-[CV.pdf](docfiles/CV.pdf)
+## 
 
 ------
  
