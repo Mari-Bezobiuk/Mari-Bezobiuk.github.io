@@ -1,6 +1,6 @@
 # Maria Bezobiuk
 
-<p align=¨center¨><img src="images/photo-bio.jpg" height="200"/>
+<p align=¨center¨> <img src="images/photo-bio.jpg" height="200"/> 
 </p>
 ## Junior QA/QC Engineer, Manual Software Tester
 
@@ -22,9 +22,9 @@ I am sure that I will be a useful addition to your IT company.
  __Development Tools__ | __Technologies__ | __Metodologies__ 
 * TestRail | * HTML / CSS (basics) | * Agile 
 * Fiddler | * Technical Documentation/ SRS  | * Kanban 
-* Postman | * API REST | * TDD 
+* Postman | * API REST | * SCRUM
 * Selenium IDE |   | * Waterfall 
-* Jira |  __RDBMS__ | 
+* Jira |  __RDBMS__ | * TDD 
 * Trello | * MySQL  | 
 * Git | * SQLite | 
 * Swagger |  | 
