@@ -1,6 +1,6 @@
 # Maria Bezobiuk
 
-<p align=¨center¨> <img src="images/photo-bio.jpg" height="200"/> 
+<p align="center"> <img src="images/photo-bio.jpg" height="200"/> 
 </p>
 ## Junior QA/QC Engineer, Manual Software Tester
 
@@ -57,3 +57,4 @@ I am sure that I will be a useful addition to your IT company.
 * LinkedIn: www.linkedin.com/in/mari-bezobiuk
 * GitHub Pages: mari-bezobiuk.github.io
 
+[CV.pdf](docfiles/CVmain.pdf)
