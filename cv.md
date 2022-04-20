@@ -1,4 +1,6 @@
-# Maria Bezobiuk
+# CV
+
+#Maria Bezobiuk
 
 <p align="center"> <img src="images/photo-bio.jpg" height="200"/> 
 </p>
