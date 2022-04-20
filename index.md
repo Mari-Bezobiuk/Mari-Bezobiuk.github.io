@@ -173,7 +173,7 @@ any sequence or describing a scenario. This practice was developed with
 the aim of supporting user-centric design and avoiding to induce bias about 
 the user-interface in the early stage of the system specifications.  
 
-
+[Use case](use-case-registration.pdf) for registration.
 
 ------
 
@@ -253,7 +253,8 @@ Defect or bug report is the basis artifact for improving the software.
 
 > **Defect or bug report** is a documentation of the occurrence, nature, and status of a defect. (ISTQB)
 
-
+I have made this [defect reports](docfiles/defect-report-1.pdf) and
+[this in Excel](docfiles/defects-ua.xlsx) in Ukrainian.
 ------
 
 ## API Testing
