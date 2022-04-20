@@ -173,7 +173,7 @@ any sequence or describing a scenario. This practice was developed with
 the aim of supporting user-centric design and avoiding to induce bias about 
 the user-interface in the early stage of the system specifications.  
 
-[Use case](use-case-registration.pdf) for registration.
+[Use case](docfiles/use-case-registration.pdf) for registration.
 
 ------
 
@@ -228,6 +228,8 @@ They provide a clear method to verify testing of all pertinent combinations
 It´s a list of test activities needed to be done with checkbox done or not. 
 It can contains a columns ¨Pass/Fail¨ and ¨Coments¨ for tester´s comfort :\) 
 
+
+
 File with [checklist](docfiles/checklist-main-newtea.pdf) for main page testing.
 
 
@@ -242,7 +244,8 @@ Test cases are the main artifacts for testing the software itself.
 
 
 
-See more about 5 commonly-used [test design techniques](test-design-techniques.md) 
+See more about 5 commonly-used [test design techniques](test-design-techniques.md)
+
 
 ------
 
@@ -255,6 +258,7 @@ Defect or bug report is the basis artifact for improving the software.
 
 I have made this [defect reports](docfiles/defect-report-1.pdf) and
 [this in Excel](docfiles/defects-ua.xlsx) in Ukrainian.
+
 ------
 
 ## API Testing
@@ -336,39 +340,41 @@ attributes (columns) and the relationship between those relations. The
 information about one entity of the real world is stored within one row 
 of a table. 
 
-[SQL](docfiles/sql-lite.pdf) 
+This is example of using [SQL](docfiles/sql-lite.pdf)
 
 ------
 
 ## About me
 
-I have a technical and analytical mindset. Since the school time, I was 
-very attentive to details, was trying to do perfectly my work so sometimes 
-I was slow in studying. My strong side is the need to understand the 
-study material so it becomes a part of me. This means that I can explain 
-and use it anytime I needed. I have three children and sometimes help them 
-with homework. Sometimes because I´ve explained to them, missing the parts
-on the basis causes the misunderstanding of the next level material. 
+I have a technical and analytical mindset. Since the school, I have been 
+very attentive to details, trying to do my homework perfectly so sometimes 
+I studyied slowly. My strength is the need for a deep understanding of the
+learning material, which I absorb quickly, so it becomes part of me. 
+This means that I can explain and use it anytime I needed.  
 
-Also, I am a self-organized person. I´ve studied HTML and Phyton´s basis in 
-Sololearn app a few years ago. Also, I studied SQL basis on it.
-And I´ve created this site on my own after I got first acquainted 
-with Git and ultimate markdown. As you can see I´m a self-study person, which
-is interested in IT. 
+I have three children and sometimes help them with homework. 
+This is rare because I´ve explained to them, that the lack of parts
+on the base causes a misunderstanding of the next level of material. 
+
+Also, I am a self-organized person. I studied HTML and the basics of Phyton in 
+Sololearn app a few years ago. Also I´ve been studing SQL basis on it.
+And I´ve created this site myself after I got first acquainted 
+with Git and ultimate markdown. As you can see, I´m a self-taught and 
+interested in IT person.
 
 I took part in EPAM’s external course Software Functional Testing Winter 
 Program 2022. I studied ISTQB foundation Syllabus and Software Testing - 
 Base Course (Svyatoslav Kulikov).
 
 Quality assurance interested me because in particular forms of quality 
-control and testing it is necessary at all stages of 
-software development. It usually starts from testing requirements and work 
-products, helps in the analysis and design stage, closely works with developers to create the 
-best quality product and is needed in a partly automated form on the 
+control and testing it is needed at all stages of 
+software development. It usually begins with testing requirements and work 
+products, helps in the analysis and design stage, works closely with developers to create the 
+best quality product and is needed in a partially automated form at the 
 maintenance stage for regression testing. 
 
-I understand that now my knowledge is not on the level of QA or even QC 
-engineer, it´s tester level. But I know that I have a good and strong basis
+I understand that now my knowledge is not at the level of QA or even QC 
+engineer, this is the tester level. But I know that I have a good and strong base
 on which I can add practical and more specific knowledge and grow up!
 
 
