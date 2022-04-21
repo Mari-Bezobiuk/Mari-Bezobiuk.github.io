@@ -242,6 +242,44 @@ Test cases are the main artifacts for testing the software itself.
 > **Test case** is a set of preconditions, inputs, actions (where applicable), expected 
 > results and postconditions, developed based on test conditions. (ISTQB)
 
+Test cases are typically written by members of the quality assurance (QA) 
+team or the testing team and can be used as step-by-step instructions 
+for each system test. Testing begins once the development team has finished 
+a system feature or set of features. A sequence or collection of test cases 
+is called a **test suite**.
+
+Test cases define what must be done to test a system, including the steps 
+executed in the system, the input data values that are entered into the 
+system and the results that are expected throughout test case execution. 
+Using test cases allows developers and testers to discover errors that 
+may have occurred during development or defects that were missed during ad hoc tests.
+
+The components of a test case include:
+
+- *Test name.* A title that describes the functionality or feature that 
+the test is verifying.
+- *Test ID.* Typically a numeric or alphanumeric identifier that QA engineers 
+and testers use to group test cases into test suites.
+- *Objective.* Also called the description, this important component 
+describes what the test intends to verify in one to two sentences.
+- *References.* Links to user stories, design specifications or requirements 
+that the test is expected to verify.
+- *Prerequisites.* Any conditions that are necessary for the tester or QA 
+engineer to perform the test.
+- *Test setup. This component identifies what the test case needs to run 
+correctly, such as app version, operation system, date and time requirements 
+and security specifications.
+- *Test steps.* Detailed descriptions of the sequential actions that must 
+be taken to complete the test.
+- *Expected results.* An outline of how the system should respond to each 
+test step.
+
+Before writing a test case, QA engineers and testing team members should 
+first determine the scope and purpose of the test. This includes 
+understanding the system features and user requirements as well as 
+identifying the testable requirements.
+
+
 
 
 See more about 5 commonly-used [test design techniques](test-design-techniques.md)
@@ -258,6 +296,8 @@ Defect or bug report is the basis artifact for improving the software.
 
 I have made this [defect reports](docfiles/defect-report-1.pdf) and
 [this in Excel](docfiles/defects-ua.xlsx) in Ukrainian.
+
+<a href="docfiles/defects-ua.xlsx" target="_blank"/Excel file</a/
 
 ------
 
@@ -377,11 +417,4 @@ I understand that now my knowledge is not at the level of QA or even QC
 engineer, this is the tester level. But I know that I have a good and strong base
 on which I can add practical and more specific knowledge and grow up!
 
-
-------
-
-## 
-
-------
- 
 
