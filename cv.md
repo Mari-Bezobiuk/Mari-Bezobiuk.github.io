@@ -59,4 +59,4 @@ I am sure that I will be a useful addition to your IT company.
 * LinkedIn: [www.linkedin.com/in/mari-bezobiuk](www.linkedin.com/in/mari-bezobiuk)
 * GitHub Pages: [www.mari-bezobiuk.github.io](www.mari-bezobiuk.github.io)
 
-[CV.pdf](docfiles/CVmain.pdf)
+[CV.pdf](docfiles/Bezobiuk-Maria-qa-qc.pdf)
