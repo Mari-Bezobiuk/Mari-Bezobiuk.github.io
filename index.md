@@ -15,6 +15,8 @@ Mainly the site was tested - [newtea.ua](https://newtea.ua/)
 
 At the time some work products aren´t up to site version.
 
+Any of these documents may be incorrect due to my lack of experience.
+
 -------
 
 ## Requirements
@@ -292,7 +294,21 @@ See more about 5 commonly-used [test design techniques](test-design-techniques.m
 
 Defect or bug report is the basis artifact for improving the software.
 
-> **Defect or bug report** is a documentation of the occurrence, nature, and status of a defect. (ISTQB)
+> **Defect or bug report** is a documentation of the occurrence, nature, 
+and status of a defect. (ISTQB)
+
+> **Defect (bug, fault)** is a an imperfection or deficiency in a work product where 
+it does not meet its requirements or specifications. (ISTQB)
+
+A good bug report:
+
+- contains the information needed to reproduce and fix problems
+- is an efficient form of communication for both bug reporter and bug receiver
+- can be and is resolved as fast as possible
+- is sent to the person in charge
+- is filed in a defined way
+- establishes a common ground for collaboration
+
 
 I have made this [defect reports](docfiles/defect-report-1.pdf) and
 [this in Excel](https://docs.google.com/spreadsheets/d/1U53O-NJJaXp52CAmf8jp9M2Eehe-g0BP/edit?usp=sharing&ouid=110079082119113602430&rtpof=true&sd=true) in Ukrainian.
