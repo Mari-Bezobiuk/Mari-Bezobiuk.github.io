@@ -295,9 +295,8 @@ Defect or bug report is the basis artifact for improving the software.
 > **Defect or bug report** is a documentation of the occurrence, nature, and status of a defect. (ISTQB)
 
 I have made this [defect reports](docfiles/defect-report-1.pdf) and
-[this in Excel](docfiles/defects-ua.xlsx) in Ukrainian.
+[this in Excel](https://docs.google.com/spreadsheets/d/1U53O-NJJaXp52CAmf8jp9M2Eehe-g0BP/edit?usp=sharing&ouid=110079082119113602430&rtpof=true&sd=true) in Ukrainian.
 
-<a href="docfiles/defects-ua.xlsx" target="_blank"> Excel file </a>
 
 ------
 
