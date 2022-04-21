@@ -297,7 +297,7 @@ Defect or bug report is the basis artifact for improving the software.
 I have made this [defect reports](docfiles/defect-report-1.pdf) and
 [this in Excel](docfiles/defects-ua.xlsx) in Ukrainian.
 
-<a href="docfiles/defects-ua.xlsx" target="_blank" Excel file </a>
+<a href="docfiles/defects-ua.xlsx" target="_blank" Excel file /a>
 
 ------
 
