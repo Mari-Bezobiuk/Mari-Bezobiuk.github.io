@@ -268,7 +268,7 @@ describes what the test intends to verify in one to two sentences.
 that the test is expected to verify.
 - *Prerequisites.* Any conditions that are necessary for the tester or QA 
 engineer to perform the test.
-- *Test setup. This component identifies what the test case needs to run 
+- *Test setup.* This component identifies what the test case needs to run 
 correctly, such as app version, operation system, date and time requirements 
 and security specifications.
 - *Test steps.* Detailed descriptions of the sequential actions that must 
@@ -284,7 +284,7 @@ identifying the testable requirements.
 [Simple test case](docfiles/test-case-bezobiuk-mari.pdf)
 
 
-See more about 5 commonly-used [test design techniques](test-design-techniques.md)
+See more about 5 commonly-used [test design techniques](test-design-techniques.md) on another page.
 
 
 ------
@@ -428,8 +428,9 @@ products, helps in the analysis and design stage, works closely with developers 
 best quality product and is needed in a partially automated form at the 
 maintenance stage for regression testing. 
 
-I understand that now my knowledge is not at the level of QA or even QC 
+I understand that now my knowledge is not at the level of QA or mayby QC 
 engineer, this is the tester level. But I know that I have a good and strong base
 on which I can add practical and more specific knowledge and grow up!
 
-
+P.S. I am currently taking an EPAM course Basic OOP for Manual QA. 
+At the same time, I'm learning the basics of C# in Sololern on my own.
