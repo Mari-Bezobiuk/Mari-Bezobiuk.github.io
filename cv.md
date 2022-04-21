@@ -56,7 +56,7 @@ I am sure that I will be a useful addition to your IT company.
 
 * Tel: +38(097)3243721
 * E-mail: bezobiuk.mari@gmail.com
-* LinkedIn: www.linkedin.com/in/mari-bezobiuk
-* GitHub Pages: mari-bezobiuk.github.io
+* LinkedIn: [www.linkedin.com/in/mari-bezobiuk](www.linkedin.com/in/mari-bezobiuk)
+* GitHub Pages: [www.mari-bezobiuk.github.io](www.mari-bezobiuk.github.io)
 
 [CV.pdf](docfiles/CVmain.pdf)

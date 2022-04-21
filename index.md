@@ -279,7 +279,7 @@ first determine the scope and purpose of the test. This includes
 understanding the system features and user requirements as well as 
 identifying the testable requirements.
 
-
+[Simple test case](docfiles/test-case-bezobiuk-mari.pdf)
 
 
 See more about 5 commonly-used [test design techniques](test-design-techniques.md)
@@ -297,7 +297,7 @@ Defect or bug report is the basis artifact for improving the software.
 I have made this [defect reports](docfiles/defect-report-1.pdf) and
 [this in Excel](docfiles/defects-ua.xlsx) in Ukrainian.
 
-<a href="docfiles/defects-ua.xlsx" target="_blank"/Excel file</a/
+<a href="docfiles/defects-ua.xlsx" target="_blank" Excel file </a>
 
 ------
 
