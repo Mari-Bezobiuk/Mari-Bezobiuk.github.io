@@ -1,6 +1,6 @@
 # CV
 
-#Maria Bezobiuk
+# Maria Bezobiuk
 
 <p align="center"> <img src="images/photo-bio.jpg" height="200"/> 
 </p>
@@ -34,7 +34,7 @@ I am sure that I will be a useful addition to your IT company.
 ### Languages
 * Ukrainian - native
 * Russian - native
-* English - B2
+* English - reading and listning C1, writing B1
 
 ### Education
 
