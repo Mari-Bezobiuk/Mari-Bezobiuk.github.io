@@ -411,7 +411,7 @@ I have three children and sometimes help them with homework.
 This is rare because I´ve explained to them, that the lack of parts
 on the base causes a misunderstanding of the next level of material. 
 
-Also, I am a self-organized person. I studied HTML and the basics of Phyton in 
+Also, I am a self-organized person. I studied HTML and the basics of Python in 
 Sololearn app a few years ago. Also I´ve been studing SQL basis on it.
 And I´ve created this site myself after I got first acquainted 
 with Git and ultimate markdown. As you can see, I´m a self-taught and 
