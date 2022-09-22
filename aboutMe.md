@@ -13,20 +13,20 @@ learning material, which I absorb quickly, so it becomes part of me.
 This means that I can explain and use it anytime I needed.  
 
 I have three children and sometimes help them with homework. 
-This is rare because I´ve explained to them, that the lack of parts
+This is rare because I've explained to them, that the lack of parts
 on the base causes a misunderstanding of the next level of material. 
 
 Also, I am a self-organized person. I studied HTML and the basics of Python in 
-Sololearn app a few years ago. Also, I´ve been studying SQL basis on it.
+Sololearn app a few years ago. Also, I've been studying SQL basis on it.
 And I created this site myself after I got first acquainted 
-with Git and ultimate markdown. As you can see, I´m self-taught and 
+with Git and ultimate markdown. As you can see, I'm self-taught and 
 interested in IT person.
 
-I took part in EPAM´s external course Software Functional Testing Winter 
+I took part in EPAM's external course Software Functional Testing Winter 
 Program 2022. I studied ISTQB foundation Syllabus and Software Testing - 
-Base Course (Svyatoslav Kulikov).
+Base Course (Svyatoslav Kulikov). 
 
-Also, I took part in EPAM´s external Test Automation Laboratory 2022. 
+Also, I took part in EPAM's external Test Automation Laboratory 2022. 
 I learned the basics of C#, OOP, automation testing with Selenium Webdriver and
 NUnit.
 
