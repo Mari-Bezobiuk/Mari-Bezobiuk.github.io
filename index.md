@@ -1,25 +1,34 @@
 
 # Welcome to my portfolio!
 
-I'm Maria Bezobiuk and I'm a junior QA/QC engineer, at the time - 
-manual software tester.
+I'm Maria Bezobiuk and I'm a junior QA/QC engineer.
 
-<img src="images/photo-bio.jpg" height="200" align="center"/>
+I'm glad you are here. It means, you are curious about the level of my skills.
 
-I'm glad you are here. It means, you were interested in my [CV](cv.md) 
-or social page and were curious, what is the level of my skills.
-
-These are examples of my work products.
-
-Mainly the site was tested - [newtea.ua](https://newtea.ua/)
-
-At the time some work products aren´t up to site version.
-
-Any of these documents may be incorrect due to my lack of experience.
+These are examples of my work products with some theory.
 
 -------
 
-## Requirements
+## Content
+
+[Requirements](##requirements)
+[User Stories](##user-stories)
+[Use Case Diagram](##use-case-diagram)
+[Use Case](##use-case)
+[State-Transition Diagram](##state-transition-diagram)
+[Decision Table](##decision-table)
+[Checklist](##checklist)
+[Test Case](##test-case)
+[Defect Report](##defect-report)
+[API Testing](##API-testing)
+[Automated Testing](automatedTesting.md)
+[About Me](aboutMe.md)
+
+
+
+## Requirements 
+
+[Up](##content)
  
 > The requirements should be documented, actionable, measurable, testable, 
 > traceable, related to identified business needs or opportunities, 
@@ -87,6 +96,8 @@ requirements but should be expected to read a 12-page Vision document.
 
 ## User stories
 
+[Up](##content)
+
 **User story** is a requirement written from a user position and can 
 include any functional or non-functional user´s need, the reason behind it,
  and acceptance criteria.
@@ -104,6 +115,8 @@ There are some variants to write down user stories:
 
 ## Use case diagram
 
+[Up](##content)
+
 The logic of some relationships between the use cases, actors, and systems 
 can be visualised in **use case digram**. It´s usually simple and shows what 
 behavior is expected in software underdeveloped. We can say, it is a primary 
@@ -118,6 +131,8 @@ the end user's perspective.
 ------
 
 ## Use Case
+
+[Up](##content)
 
 A **use case** is a list of actions or event steps typically defining the 
 interactions between a role (known in the Unified Modeling Language (UML)
@@ -181,6 +196,8 @@ the user-interface in the early stage of the system specifications.
 
 ## State-Transition Diagram
 
+[Up](##content)
+
 **State-transition diagram (STD)** is a visualisation of all the possible *states* 
 of system, each variant of *event* from outside the system that cause changes 
 in system, and *transition* to another state as a result of this event. 
@@ -202,12 +219,14 @@ completely and   correctly in this diagram?"
 
 
 <img src="docfiles/state-transition-diagram.jpg" width="700" alt="State Transition Diagram"/>
-<!--- State Transition Diagram for registration on newtea.ua.--->
+<p align="center"> State Transition Diagram for registration on newtea.ua.</p>
 
 
 ------
 
 ## Decision Table
+
+[Up](##content)
 
 **Decision table** is a visual way to represent multiple conditions and 
 actions for them or they combinations.  
@@ -226,6 +245,8 @@ They provide a clear method to verify testing of all pertinent combinations
 
 ## Checklist
 
+[Up](##content)
+
 **Checklist** is a simpliest form of test documentation, I think. 
 It´s a list of test activities needed to be done with checkbox done or not. 
 It can contains a columns ¨Pass/Fail¨ and ¨Coments¨ for tester´s comfort :\) 
@@ -237,7 +258,9 @@ File with [checklist](docfiles/checklist-main-newtea.pdf) for main page testing.
 
 ------
 
-## Test Cases
+## Test Case
+
+[Up](##content)
 
 Test cases are the main artifacts for testing the software itself.
 
@@ -284,13 +307,15 @@ identifying the testable requirements.
 [Simple test case](docfiles/test-case-bezobiuk-mari.pdf)
 
 
-See more about 5 commonly-used [test design techniques](test-design-techniques.md) on another page.
+See more about 5 commonly-used [test design techniques](testDesignTechniques.md) on another page.
 
 
 ------
 
 
 ## Defect Reports
+
+[Up](##content)
 
 Defect or bug report is the basis artifact for improving the software.
 
@@ -317,6 +342,8 @@ I have made this [defect reports](docfiles/defect-report-1.pdf) and
 ------
 
 ## API Testing
+
+[Up](##content)
 
 > **Application programming interface (API)** is a type of interface in 
 which the components or systems involved exchange information in a 
@@ -374,6 +401,8 @@ Swagger can help you design and document your APIs at scale.
 
 ## Automated testing 
 
+[Up](##content)
+
 Automated testing with Selenium IDE (Integrated Development Environment)
 
 File with screenshots of testing with [Selenium IDE](docfiles/selenium-ide.pdf)
@@ -381,6 +410,8 @@ File with screenshots of testing with [Selenium IDE](docfiles/selenium-ide.pdf)
 ------
 
 ## SQL
+
+[Up](##content)
 
 > **Structured Query Language (SQL)** is a domain-specific language used 
 in programming and designed for managing data held in a relational 
@@ -397,40 +428,3 @@ of a table.
 
 This is example of using [SQL](docfiles/sql-lite.pdf)
 
-------
-
-## About me
-
-I have a technical and analytical mindset. Since the school, I have been 
-very attentive to details, trying to do my homework perfectly so sometimes 
-I studyied slowly. My strength is the need for a deep understanding of the
-learning material, which I absorb quickly, so it becomes part of me. 
-This means that I can explain and use it anytime I needed.  
-
-I have three children and sometimes help them with homework. 
-This is rare because I´ve explained to them, that the lack of parts
-on the base causes a misunderstanding of the next level of material. 
-
-Also, I am a self-organized person. I studied HTML and the basics of Phyton in 
-Sololearn app a few years ago. Also I´ve been studing SQL basis on it.
-And I´ve created this site myself after I got first acquainted 
-with Git and ultimate markdown. As you can see, I´m a self-taught and 
-interested in IT person.
-
-I took part in EPAM’s external course Software Functional Testing Winter 
-Program 2022. I studied ISTQB foundation Syllabus and Software Testing - 
-Base Course (Svyatoslav Kulikov).
-
-Quality assurance interested me because in particular forms of quality 
-control and testing it is needed at all stages of 
-software development. It usually begins with testing requirements and work 
-products, helps in the analysis and design stage, works closely with developers to create the 
-best quality product and is needed in a partially automated form at the 
-maintenance stage for regression testing. 
-
-I understand that now my knowledge is not at the level of QA or mayby QC 
-engineer, this is the tester level. But I know that I have a good and strong base
-on which I can add practical and more specific knowledge and grow up!
-
-P.S. I am currently taking an EPAM course Basic OOP for Manual QA. 
-At the same time, I'm learning the basics of C# in Sololern on my own.

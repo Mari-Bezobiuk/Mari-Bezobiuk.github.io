@@ -1,5 +1,7 @@
 # Test Design Techniques
 
+[Go Back](index.md)
+
 In this post, you will learn about five commonly-used test design techniques
 that will help you ensure maximum test coverage and reduce time spent on 
 testing activities.
@@ -34,6 +36,8 @@ There are a dozen of test design techniques you can use, but let’s focus
 
 ### Equivalent Class Partitioning
 
+[Up](#test-design-techniques)
+
 > **Equivalent class partitioning** or **equivalence partitioning** or **partition testing** A black-box test technique in which test cases are designed to exercise
  equivalence partitions by using one representative member of each partition.
  (ISTQB)
@@ -56,6 +60,8 @@ more closely.
 
 ### Boundary Value Analysis
 
+[Up](#test-design-techniques)
+
 > **Boundary value analysis** is a black-box test technique in which test cases are designed based on 
 boundary values. (ISTQB) 
 
@@ -72,6 +78,8 @@ the errors are likely to pop up at the unit junctions.
 
 ### State Transition
 
+[Up](#test-design-techniques)
+
 > **State transition** is a black-box test technique in which test cases are designed to exercise
  elements of a state transition model. (ISTQB)
 
@@ -84,6 +92,8 @@ systems that have many state variations. It will be helpful if you test
 a sequence of events with a finite number of input options.
 
 ### Pairwise Testing
+
+[Up](#test-design-techniques)
 
 > **Pairwise testing** is a black-box test technique in which test cases are designed to exercise
 pairs of parameter-value pairs. (ISTQB)
@@ -100,6 +110,8 @@ calculations.
 
 
 ### Error Guessing
+
+[Up](#test-design-techniques)
 
 > **Error guessing** is a test technique in which tests are derived on the basis of the tester's 
 knowledge of past failures, or general knowledge of failure modes. (ISTQB)
@@ -125,6 +137,8 @@ The more experience a QA specialist has, the more error guessing scenarios
 they can come up with quickly.
 
 ### TO SUM UP 
+
+[Up](#test-design-techniques)
 
 A correctly chosen test design technique helps to use QA 
 resources smartly. Very often, QA engineers need to combine several test 
