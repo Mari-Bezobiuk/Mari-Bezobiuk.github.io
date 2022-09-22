@@ -22,11 +22,11 @@ And I´ve created this site myself after I got first acquainted
 with Git and ultimate markdown. As you can see, I´m a self-taught and 
 interested in IT person.
 
-I took part in EPAM’s external course Software Functional Testing Winter 
+I took part in EPAM´s external course Software Functional Testing Winter 
 Program 2022. I studied ISTQB foundation Syllabus and Software Testing - 
 Base Course (Svyatoslav Kulikov).
 
-Also I took part in EPAM’s external Test Automation Laboratory 2022. 
+Also I took part in EPAM´s external Test Automation Laboratory 2022. 
 I learned the basics of C#, OOP, automation testing with Selenium Webdriver and
 NUnit.
 
