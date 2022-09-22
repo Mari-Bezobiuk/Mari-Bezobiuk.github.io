@@ -11,24 +11,24 @@ These are examples of my work products with some theory.
 
 ## Content
 
-[Requirements](##requirements)
-[User Stories](##user-stories)
-[Use Case Diagram](##use-case-diagram)
-[Use Case](##use-case)
-[State-Transition Diagram](##state-transition-diagram)
-[Decision Table](##decision-table)
-[Checklist](##checklist)
-[Test Case](##test-case)
-[Defect Report](##defect-report)
-[API Testing](##API-testing)
-[Automated Testing](automatedTesting.md)
-[About Me](aboutMe.md)
+- [Requirements](#requirements)
+- [User Stories](#user-stories)
+- [Use Case Diagram](#use-case-diagram)
+- [Use Case](#use-case)
+- [State-Transition Diagram](#state-transition-diagram)
+- [Decision Table](#decision-table)
+- [Checklist](#checklist)
+- [Test Case](#test-case)
+- [Defect Report](#defect-report)
+- [API Testing](#API-testing)
+- [Automated Testing](automatedTesting.md)
+- [About Me](aboutMe.md)
 
 
 
 ## Requirements 
 
-[Up](##content)
+[Up](#content)
  
 > The requirements should be documented, actionable, measurable, testable, 
 > traceable, related to identified business needs or opportunities, 
@@ -96,7 +96,7 @@ requirements but should be expected to read a 12-page Vision document.
 
 ## User stories
 
-[Up](##content)
+[Up](#content)
 
 **User story** is a requirement written from a user position and can 
 include any functional or non-functional user´s need, the reason behind it,
@@ -115,7 +115,7 @@ There are some variants to write down user stories:
 
 ## Use case diagram
 
-[Up](##content)
+[Up](#content)
 
 The logic of some relationships between the use cases, actors, and systems 
 can be visualised in **use case digram**. It´s usually simple and shows what 
@@ -132,7 +132,7 @@ the end user's perspective.
 
 ## Use Case
 
-[Up](##content)
+[Up](#content)
 
 A **use case** is a list of actions or event steps typically defining the 
 interactions between a role (known in the Unified Modeling Language (UML)
@@ -196,7 +196,7 @@ the user-interface in the early stage of the system specifications.
 
 ## State-Transition Diagram
 
-[Up](##content)
+[Up](#content)
 
 **State-transition diagram (STD)** is a visualisation of all the possible *states* 
 of system, each variant of *event* from outside the system that cause changes 
@@ -226,7 +226,7 @@ completely and   correctly in this diagram?"
 
 ## Decision Table
 
-[Up](##content)
+[Up](#content)
 
 **Decision table** is a visual way to represent multiple conditions and 
 actions for them or they combinations.  
@@ -245,7 +245,7 @@ They provide a clear method to verify testing of all pertinent combinations
 
 ## Checklist
 
-[Up](##content)
+[Up](#content)
 
 **Checklist** is a simpliest form of test documentation, I think. 
 It´s a list of test activities needed to be done with checkbox done or not. 
@@ -260,7 +260,7 @@ File with [checklist](docfiles/checklist-main-newtea.pdf) for main page testing.
 
 ## Test Case
 
-[Up](##content)
+[Up](#content)
 
 Test cases are the main artifacts for testing the software itself.
 
@@ -315,7 +315,7 @@ See more about 5 commonly-used [test design techniques](testDesignTechniques.md)
 
 ## Defect Reports
 
-[Up](##content)
+[Up](#content)
 
 Defect or bug report is the basis artifact for improving the software.
 
@@ -343,7 +343,7 @@ I have made this [defect reports](docfiles/defect-report-1.pdf) and
 
 ## API Testing
 
-[Up](##content)
+[Up](#content)
 
 > **Application programming interface (API)** is a type of interface in 
 which the components or systems involved exchange information in a 
@@ -396,22 +396,11 @@ with the Swagger open source and professional toolset. Find out how
 Swagger can help you design and document your APIs at scale.
 
 
-
-------
-
-## Automated testing 
-
-[Up](##content)
-
-Automated testing with Selenium IDE (Integrated Development Environment)
-
-File with screenshots of testing with [Selenium IDE](docfiles/selenium-ide.pdf)
-
 ------
 
 ## SQL
 
-[Up](##content)
+[Up](#content)
 
 > **Structured Query Language (SQL)** is a domain-specific language used 
 in programming and designed for managing data held in a relational 

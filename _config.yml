@@ -1,5 +1,5 @@
 #Site wide configuration
-title: Junior QA/QC Engineer
+title: Junior QA Engineer
 icon: favicon.ico
 locale: en_US
 
@@ -9,7 +9,7 @@ author: Maria Bezobiuk
 avatar: images\photo-bio.jpg
 email: bezobiuk.mari@gmail.com
 linkedin: mari-bezobiuk
-description: QA/QC Engineer, Manual Software Tester
+description: Manual QA Engineer, Automation QA Engineer, Software Testing
 github_username: Mari-Bezobiuk
 show_excerpts: true
 theme: jekyll-theme-leap-day
